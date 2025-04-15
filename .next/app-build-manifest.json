@@ -30,11 +30,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/dashboard/interview/[interviewId]/start/page.js"
-    ],
-    "/dashboard/interview/[interviewId]/feedback/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/interview/[interviewId]/feedback/page.js"
     ]
   }
 }
