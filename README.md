@@ -1,4 +1,4 @@
-[Link to the Application](https://yeswanth-koti26-ai-mock-interview-app.vercel.app/)
+
 
 ![image](https://github.com/user-attachments/assets/1dbd2777-d6d6-48bb-86c9-30aecb65a822)
 
